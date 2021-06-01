@@ -2,7 +2,7 @@
 
 <img src="image request and doc/img/main.png">
 
-##Backend
+## Backend
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-##Frontend
+## Frontend
 
 1)Download node.js
 
