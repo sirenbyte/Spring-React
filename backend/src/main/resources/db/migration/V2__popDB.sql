@@ -1,0 +1,1 @@
+insert into task (tname,deadline,description,process) values ('First Task','2021-05-26','lorem',false);
